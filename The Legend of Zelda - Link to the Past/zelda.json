@@ -1,0 +1,21 @@
+{
+    "rooms" : {   "e" : ["enemy" ],
+                        "S" : ["switch" ],
+                        "b" : ["boss" ],
+                        "k" : ["key"],
+                        "K" : ["boss key"],
+                        "I" : ["key item"],
+                        "p" : ["puzzle"],
+                        "s" : ["start"],
+                        "t" : ["triforce"]
+                    },
+    "doors" : {    "S" : ["switch locked" ],
+                        "b" : ["bombable" ],
+                        "k" : ["key locked"],
+                        "K" : ["boss key locked"],
+                        "I" : ["key item locked"],
+                        "l" : ["soft locked"],
+                        "S" : ["switch locked"],
+                        ""s : ["visible", "impassable"]
+    }
+}
