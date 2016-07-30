@@ -16,6 +16,6 @@
                         "I" : ["key item locked"],
                         "l" : ["soft locked"],
                         "S" : ["switch locked"],
-                        ""s : ["visible", "impassable"]
+                        "s" : ["visible", "impassable"]
     }
 }
