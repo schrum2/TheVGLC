@@ -1,21 +1,21 @@
-{
-    "rooms" : {   "e" : ["enemy" ],
-                        "S" : ["switch" ],
-                        "b" : ["boss" ],
-                        "k" : ["key"],
-                        "K" : ["boss key"],
-                        "I" : ["key item"],
-                        "p" : ["puzzle"],
-                        "s" : ["start"],
-                        "t" : ["triforce"]
+{"nodes" : {   "e" : ["room","enemy" ],
+                        "S" : ["room","switch" ],
+                        "b" : ["room","boss" ],
+                        "k" : ["room","key"],
+                        "K" : ["room","boss key"],
+                        "I" : ["room","key item"],
+                        "p" : ["room","puzzle"],
+                        "s" : ["room","start"],
+                        "t" : ["room","triforce"]
                     },
-    "doors" : {    "S" : ["switch locked" ],
-                        "b" : ["bombable" ],
-                        "k" : ["key locked"],
-                        "K" : ["boss key locked"],
-                        "I" : ["key item locked"],
-                        "l" : ["soft locked"],
-                        "S" : ["switch locked"],
+    "edges" : {    "S" : ["door","switch locked" ],
+                        "b" : ["door","bombable" ],
+                        "k" : ["door","key locked"],
+                        "K" : ["door","boss key locked"],
+                        "I" : ["door","key item locked"],
+                        "l" : ["door","soft locked"],
+                        "S" : ["door","switch locked"],
                         "s" : ["visible", "impassable"]
     }
 }
+
