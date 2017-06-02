@@ -9,8 +9,8 @@ W---------------RRRRRRRRRQQQQRQQRQQRRRRRRRRRRRRRRRRRRSRRRRRRRRRRRRRRRRRRRRRRRRRR
 W-------------RRRRRRRRQQRQQRRRRRRRRQQRRRCRRRRRRRRRRRRSRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR-------------------W
 W-----------RRRRRRRRRRQQRRRRQQRRQQRQQRRRRRRRRRRRRRRRRSRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR---------------W
 W----------RRRRRRRRRRRRRRRRRQQRRQQRRRRRRCRRRRRRRRRRRRSRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR------------W
-W---------RRRRRRRRRRRRRRQQRRRRRRRRRRRRRRRRRRRRRRRRRRRSRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR<<RRRRRRRRRRRRRRRRRRR----------W
-W--------RRRRRRRRRRRRRRRQQRQQRQQRRRQQRRRCRRRRRRRRRRRRSRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR<<RRRRRRRRRRRRRRRRRRRRR--------W
+W---------RRRRRRRRRRRRRRQQRRRRRRRRRRRRRRRRRRRRRRRRRRRSRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR--RRRRRRRRRRRRRRRRRRR----------W
+W--------RRRRRRRRRRRRRRRQQRQQRQQRRRQQRRRCRRRRRRRRRRRRSRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR--RRRRRRRRRRRRRRRRRRRRR--------W
 W-------RRRCRRRRRRRRRRRRRRRQQRQQRRRQQRRRRRRRRRRRRRRRRSRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR-------W
 W------RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRSRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR------W
 W-----RRRRRRRCRRRRRRRR---------------------------------------------------------------------------------RRRRRRRRRRRRRRRRRRR-----W
@@ -44,7 +44,7 @@ W----------RRRRRRRRRRRRRRRRRR------------------W-----W-------------RRRRRRCRRRRRR
 W-----------RRRRRRRRRRRRRRRRRRR----------------W-----W------------RRRRRRRRRRRRRRRR----------W--W-----------------RRRRRRRRRR----W
 W-------------RRRRRRRRRRRRRRRRRRR--------------W-----W-----------RRRRRRCRCRCRRRRRRR---------W--W----------------RRRRRRRRRR-----W
 W---------------RRRRRRRRRRRRRRRRRRR------------W-----W-----------RRRRRRRRRRRRRRRRRRR--------W--W---------------RRRRRRRRRR------W
-W-----------------RRRRRRRRRRRRRRRRRRR----------W-----W----------RRRRRRRRRCRRRRRRRRRR--------W--W--------------RRRRRRRRRR-------W
+W-----------------RRRRRRRRRRRRRRRR-RR----------W-----W----------RRRRRRRRRCRRRRRRRRRR--------W--W--------------RRRRRRRRRR-------W
 W-------------------RRRRRRRRRRRRRRRRRR---------W-----W----------RRRRRRRRRRRRRRRRRRRR--------W--W-------------RRRRRRRRRR--------W
 W---------------------RRRRRRRRRRRRRRRRR--------W-----W----------RRRRRRRRRCRRRRRRRRRRR-------W--W------------RRRRRRRRRR---------W
 W-----------------------RRRRRRRRRRRRRRRR-------W-----W---------RRRRRRRRRRRRRRRRRRRRRR-------W--W-----------RRRRRRRRRR----------W
@@ -65,8 +65,8 @@ WWWWWWWWWWWWWWWWWWWWWWWWWWWWW------RRRRRRRR----W-----W-------RRRRRRRRR--W--RRRRR
 ----------------------------W------RRRRRRRR----W--W---------RRRRRRRR--W-W--RRRRRRRRRR-------W--W--RRRRRRRR-----WWWWWW--WWWWWWWWW
 ----------------------------W------RRRRRRRR----W--W--------RRRRRRRRR--W-W--RRRRRRRRRR-------W--W--RRRRRRRR-----WWWWWW--WWWWWWWWW
 ----------------------------W------RRRRRRRR----W--W--------RRRRRRRR---W-W--RRRRRRRRR--------W--W--RRRRRRRR---------------------W
-----------------------------W------RRRRRRRR----W--W--------RRRRRRRR---W-W--RRRRRRRR---------W--W--ROORRRRR---------------------W
-----------------------------W------RRRRRRRR----W--W--------RRRRRRRR---W-W--RRRRRRRR---------W--W--ROORRRRR---------------------W
+----------------------------W------RRRRRRRR----W--W--------RRRRRRRR---W-W--RRRRRRRR---------W--W--RBBRRRRR---------------------W
+----------------------------W------RRRRRRRR----W--W--------RRRRRRRR---W-W--RRRRRRRR---------W--W--RBBRRRRR---------------------W
 ----------------------------W------RRRRRRRR----W--W-------RRRRRRRRR---W-W--RRRRRRRR---------W--W--RRRRRRRR---------------------W
 WWWWWWWWWWWWWWWWWWWWWWWWWWWWW------RRRRRRRR----W--W-------RRRRRRRR----W-W--RRRRRRRR---------W--W--RRRRRRRR---------------------W
 W----------------------------------RRRRRRRR----W--W-------RRRRRRRR----W-W--RRRRRRRR---------W--W--RRRRRRRR---------------------W
@@ -97,8 +97,8 @@ W----RRRRRRRR----------W--------------------W-------RRRRRRRR-----W--W------RRRRR
 W----RRRRRRRR----------W--------------------W-------RRRRRRRR-----W--W------RRRRRRRR---------W---------W----------RRRRRRRR------W
 W----RRRRRRRR----------W--------------------W------RRRRRRRRR-----W--W------RRRRRRRR---------W---------W----------RRRRRRRR------W
 W----RRRRRRRR----------W--------------------W------RRRRRRRR------W--W------RRCRCRCR---------W---------W----------RRRRRRRR------W
-W----ROORRRRR----------W--------------------W------RRRRRRRR------W--W------RRRRRRRR---------W---------W----------RRRRRRRR------W
-W----ROORRRRR----------W--------------------W------RRRRRRRR------W--W------RRRRRRRR---------W---------W---------RRRRRRRRR------W
+W----RBBRRRRR----------W--------------------W------RRRRRRRR------W--W------RRRRRRRR---------W---------W----------RRRRRRRR------W
+W----RBBRRRRR----------W--------------------W------RRRRRRRR------W--W------RRRRRRRR---------W---------W---------RRRRRRRRR------W
 W----RRRRRRRR----------W--------------------W-----RRRRRRRRR------W--W------RRRRRRRR---------W---------W---------RRRRRRRRR------W
 W----RRRRRRRR----------W--------------------W-----RRRRRRRR---WWWWW--W------RRRRRRRR---------W---------W---------RRRRRRRRR------W
 W----RRRRRRRRR---------W--------------------W-----RRRRRRRR---W------W------RRRRRRRR---------W---------W---------RRRRRRRR-------W
