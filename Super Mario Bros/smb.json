@@ -10,6 +10,8 @@
         ">" : ["solid","top-right pipe","pipe"],
         "[" : ["solid","left pipe","pipe"],
         "]" : ["solid","right pipe","pipe"],
-        "o" : ["coin","collectable","passable"]
+        "o" : ["coin","collectable","passable"],
+        "B" : ["Cannon top","cannon","solid","hazard"],
+        "b" : ["Cannon bottom","cannon","solid"]
     }
 }
