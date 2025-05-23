@@ -1,0 +1,14 @@
+{
+  "tiles": {
+    "F": ["FLOOR"],
+    "B": ["BLOCK"],
+    "M": ["MONSTER"],
+    "P": ["ELEMENT"],
+    "O": ["ELEMENT", "FLOOR"],
+    "I": ["ELEMENT", "BLOCK"],
+    "D": ["DOOR"],
+    "S": ["STAIR"],
+    "W": ["WALL"],
+    "-": ["VOID"]
+  }
+}
