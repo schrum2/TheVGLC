@@ -1,18 +1,42 @@
+P: Player/Spawn point
 @: null
-#: solid
--: empty
-B: breakable
-H: hazard (spikes)
+-: air/empty tile
+~: Water
+#: ground/wall
 |: ladder
-L: large health pack
-l: small health pack
-W: large ammo pack
-w: small ammo pack
-+: extra life
-M: moving platform
-P: player
-C: cannon/shooter
-D: door
-U: transport beam upgrade (single appearance upgrade)
-t: section of tiles that look solid but you fall through
-*: special item that completely fills health and ammo (only shows up in the final level)
+B: Breakable block
+t: Fake blocks (look solid but aren't)
+A: Appearing/disappearing block
+M: Moving platform
+D: Door
+
+W: Large ammo pack
+w: Small ammo pack
+L: Large health pack
+l: Small health pack
++: Extra life
+*: Yashichi, a special item that completely fills health and ammo (only shows up in the final level)
+U: Magnet Beam (one-time appearance)
+Z: Orb collectabe to get a new weapon
+
+H: Spikes
+C: Fire Pillar
+
+p: Foot holder enemy/platform
+r: Sniper Joe enemy
+q: Flea enemy
+o: Flying shell enemy spawner
+k: Killer bullet enemy spawner
+j: Killer bullet enemy
+g: Spine enemy
+c: Beak enemy
+e: Screw bomber enemy
+m: Tackle fire enemy
+i: Watcher enemy
+^: Octopus battery enemy going up/down
+<: Octopus battery enemy going left/right
+f: Big eye enemy
+b: Bunby Heli enemy
+a: Met enemy
+d: Picket man enemy
+h: Crazy razy enemy
