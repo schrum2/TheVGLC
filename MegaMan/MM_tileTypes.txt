@@ -17,7 +17,7 @@ l: Small health pack
 +: Extra life
 *: Yashichi, a special item that completely fills health and ammo (only shows up in the final level)
 U: Magnet Beam (one-time appearance)
-Z: Orb collectabe to get a new weapon
+Z: Orb collectable to get a new weapon
 
 H: Spikes
 C: Fire Pillar
